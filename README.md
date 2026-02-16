@@ -2,7 +2,7 @@
 <h3 align="center">Senior Full Stack Engineer | Node.js • React • AWS • AI Systems</h3>
 
 <p align="center">
-Building scalable cloud-native systems and AI-enabled products for global teams 🌎
+Building scalable cloud-native systems and AI-enabled products for global teams
 </p>
 
 ---
