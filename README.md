@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Lucas Andrade</h1>
-<h3 align="center">Senior Full Stack Engineer Node.js • React • AWS • AI Systems</h3>
+<h3 align="center">Senior Full Stack Engineer Node.js   • React • AWS • AI Systems</h3>
 
 <p align="center">
 Building scalable cloud-native systems and AI-enabled products for global teams
@@ -66,19 +66,6 @@ Focused on performance, scalability, usability, and clean architecture
 - AI-enabled workflows  
 - Complex third-party APIs  
 - Event-driven architectures  
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasandradeinf&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasandradeinf&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
 
 ---
 
