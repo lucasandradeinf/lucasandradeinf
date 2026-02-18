@@ -77,12 +77,15 @@ Focused on performance, scalability, usability, and clean architecture
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,githubactions,jenkins" />
 </p>
 
-### AI & Integrations
+## Automation & AI Workflows
 
-- LLM integrations  
-- AI-enabled workflows  
+- n8n workflow automation platform
+- AI agent orchestration with LLMs
+- Business process automation
+- Event-driven pipelines and architectures
+- API integrations at scale
+- Internal tools for operational efficiency
 - Complex third-party APIs  
-- Event-driven architectures  
 
 ---
 
