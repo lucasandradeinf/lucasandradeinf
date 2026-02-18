@@ -77,7 +77,7 @@ Focused on performance, scalability, usability, and clean architecture
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,githubactions,jenkins,terraform" />
 </p>
 
-### 🧩 Distributed Systems & Infrastructure
+### Distributed Systems & Infrastructure
 
 - Microservices & cloud-native architectures
 - Event-driven systems & asynchronous workflows
