@@ -40,8 +40,6 @@ Focused on performance, scalability, usability, and clean architecture
 <img src="https://skillicons.dev/icons?i=openai" />
 </p>
 
-## AI & LLM Engineering
-
 - OpenAI (ChatGPT / API, Assistants, function calling)
 - Claude (Anthropic API)
 - GitHub Copilot & Cursor AI
