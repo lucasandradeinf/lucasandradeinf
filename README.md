@@ -61,7 +61,7 @@ Focused on performance, scalability, usability, and clean architecture
 ### Backend & Architecture
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,dotnet" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,dotnet,redis" />
 </p>
 
 ### Databases
@@ -74,7 +74,7 @@ Focused on performance, scalability, usability, and clean architecture
 ### Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,githubactions,jenkins" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,githubactions,jenkins,terraform" />
 </p>
 
 ## Automation & AI Workflows
