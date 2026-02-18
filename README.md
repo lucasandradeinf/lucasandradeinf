@@ -33,17 +33,24 @@ Focused on performance, scalability, usability, and clean architecture
 ## AI & LLM Tools
 
 <p>
+<img src="https://img.shields.io/badge/AI%20Engineering-LLM%20Systems-blueviolet?style=for-the-badge"/>
+</p>
+
+<p>
 <img src="https://skillicons.dev/icons?i=openai" />
 </p>
 
-- OpenAI (ChatGPT / API)
-- Claude (Anthropic)
-- GitHub Copilot
-- Cursor AI IDE
+## AI & LLM Engineering
+
+- OpenAI (ChatGPT / API, Assistants, function calling)
+- Claude (Anthropic API)
+- GitHub Copilot & Cursor AI
 - Lovable AI
-- LLM integrations & prompt engineering
-- RAG pipelines & AI workflows
-- AI-assisted development
+- Prompt engineering & evaluation
+- Retrieval-Augmented Generation (RAG)
+- AI agents & automation workflows
+- LLM integrations in production systems
+- AI-assisted development pipelines
 
 ### Languages & Frameworks
 
