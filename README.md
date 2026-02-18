@@ -30,6 +30,21 @@ Focused on performance, scalability, usability, and clean architecture
 
 ## Tech Stack
 
+## AI & LLM Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=openai" />
+</p>
+
+- OpenAI (ChatGPT / API)
+- Claude (Anthropic)
+- GitHub Copilot
+- Cursor AI IDE
+- Lovable AI
+- LLM integrations & prompt engineering
+- RAG pipelines & AI workflows
+- AI-assisted development
+
 ### Languages & Frameworks
 
 <p>
@@ -51,8 +66,9 @@ Focused on performance, scalability, usability, and clean architecture
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlserver" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlserver,mongodb,supabase" />
 </p>
+
 
 ### Cloud & DevOps
 
