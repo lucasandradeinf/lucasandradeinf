@@ -77,6 +77,17 @@ Focused on performance, scalability, usability, and clean architecture
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,githubactions,jenkins,terraform" />
 </p>
 
+### 🧩 Distributed Systems & Infrastructure
+
+- Microservices & cloud-native architectures
+- Event-driven systems & asynchronous workflows
+- Scalable backend platforms
+- High-availability & fault-tolerant design
+- Observability, monitoring & reliability practices
+- Performance optimization under load
+- Resilient system design
+- Distributed system patterns
+
 ## Automation & AI Workflows
 
 - n8n workflow automation platform
