@@ -36,10 +36,6 @@ Focused on performance, scalability, usability, and clean architecture
 <img src="https://img.shields.io/badge/AI%20Engineering-LLM%20Systems-blueviolet?style=for-the-badge"/>
 </p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=openai" />
-</p>
-
 - OpenAI (ChatGPT / API, Assistants, function calling)
 - Claude (Anthropic API)
 - GitHub Copilot & Cursor AI
@@ -71,7 +67,7 @@ Focused on performance, scalability, usability, and clean architecture
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlserver,mongodb,supabase" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" />
 </p>
 
 
